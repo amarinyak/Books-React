@@ -17,22 +17,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Books.WebApi", "WebApi\Books.WebApi\Books.WebApi.csproj", "{4E2024F3-CCF2-424E-8C13-8F7B3D6437D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ED0CF950-92E1-417A-8A1A-FB059BAD74CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ED0CF950-92E1-417A-8A1A-FB059BAD74CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ED0CF950-92E1-417A-8A1A-FB059BAD74CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ED0CF950-92E1-417A-8A1A-FB059BAD74CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E2024F3-CCF2-424E-8C13-8F7B3D6437D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2024F3-CCF2-424E-8C13-8F7B3D6437D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2024F3-CCF2-424E-8C13-8F7B3D6437D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2024F3-CCF2-424E-8C13-8F7B3D6437D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{ED0CF950-92E1-417A-8A1A-FB059BAD74CD} = {CB9CC4A2-AA90-4EAB-9042-DD8788532199}
+		{4E2024F3-CCF2-424E-8C13-8F7B3D6437D7} = {CB9CC4A2-AA90-4EAB-9042-DD8788532199}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0126060C-E585-4D6B-95A6-AD67DF120FE9}
